@@ -1,3 +1,6 @@
+#maps are from webpack to debug or inspect
+*.map
+
 # Logs
 logs
 *.log
